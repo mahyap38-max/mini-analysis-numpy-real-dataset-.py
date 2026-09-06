@@ -25,17 +25,17 @@ https://archive.ics.uci.edu/dataset/186/wine+quality
 
 ## Analysis
 
--What datatype is the content of the csv file?
--how many lines and columns are?
--how many dimensions are there?
--how many elements exits?
--What is the average , Maximum and Minimum of the qualities?
--What is the average , Maximum and Minimum and standard deviation of alcohol?
--how much is the average of ph?
--how many elements has the quality greater than 5?
--how many elements has the alcohol level more than 10?
+- What datatype is the content of the csv file?
+- how many lines and columns are?
+- how many dimensions are there?
+- how many elements exits?
+- What is the average , Maximum and Minimum of the qualities?
+- What is the average , Maximum and Minimum and standard deviation of alcohol?
+- how much is the average of ph?
+- how many elements has the quality greater than 5?
+- how many elements has the alcohol level more than 10?
 
 ## Author 
 Mahya Hoesseini Parsa
 
--
+
